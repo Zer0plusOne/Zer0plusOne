@@ -94,7 +94,7 @@
 ###
 <div align="left">
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="edd2d9b7-5337-45d0-be8d-990b461b66af" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>div
+</div>
 
 ###
 
