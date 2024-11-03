@@ -93,7 +93,7 @@
 
 ###
 <div align="left">
-  <img src="https://cdn.discordapp.com/attachments/1242143902446911661/1302740665305927752/ethical-hacker_1.png?ex=6729374a&is=6727e5ca&hm=dc117098a55c6f10d9ad78cc96bd95f81935cf38706c2792894bd5425d25232c&" height ="100"/>
+  <img src="https://cdn.discordapp.com/attachments/1242143902446911661/1302740665305927752/ethical-hacker_1.png?ex=6729374a&is=6727e5ca&hm=dc117098a55c6f10d9ad78cc96bd95f81935cf38706c2792894bd5425d25232c&" height ="75"/>
 </div>
 
 ###
