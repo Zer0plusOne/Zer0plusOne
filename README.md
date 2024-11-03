@@ -91,7 +91,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+### Certifications
 <div align="left">
   <a href="https://www.credly.com/badges/edd2d9b7-5337-45d0-be8d-990b461b66af/public_url" target="_blank">
     <img src="https://cdn.discordapp.com/attachments/1242143902446911661/1302740665305927752/ethical-hacker_1.png?ex=6729374a&is=6727e5ca&hm=dc117098a55c6f10d9ad78cc96bd95f81935cf38706c2792894bd5425d25232c&" height="75"/>
