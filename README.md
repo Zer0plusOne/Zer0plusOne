@@ -97,7 +97,7 @@
     <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" height="75"/>
   </a>
     <a href="https://www.credly.com/badges/36471ab1-65ff-4baf-b3b9-612326c0fb1e/public_url" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1242143902446911661/1302763095499997247/junior-cybersecurity-analyst-career-path.1.png?ex=67294c2e&is=6727faae&hm=f17de3517cca5be5f5ea7d485505b24ecc31031f36cc347e5fa5f64d015a4d04&=&format=webp&quality=lossless&width=473&height=473" height="75"/>
+    <img src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" height="75"/>
   </a>
 </div>
 
