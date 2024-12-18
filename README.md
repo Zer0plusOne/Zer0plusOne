@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Cybersecurity Student in ENTI-UB al Barcelona</h3>
+<h3 align="center">Cybersecurity Student in ENTI-UB at Barcelona</h3>
 
 ###
 
