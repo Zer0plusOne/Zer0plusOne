@@ -102,6 +102,10 @@
     <a href="https://www.credly.com/badges/857da5d5-fce2-4d37-a44b-ae160a222e43/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" height="75"/>
   </a>
+    </a>
+    <a href="https://www.credly.com/badges/6b813f76-0405-4fa6-b4d2-c9f09cbee79c/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/20082fc1-94af-4773-9df0-28856b566748/image.png" height="75"/>
+  </a>
 </div>
 
 ###
