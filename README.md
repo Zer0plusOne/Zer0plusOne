@@ -2,8 +2,8 @@
 
 ###
 
-<h3 align="center">Cybersecurity Student in ENTI-UB at Barcelona</h3>
-
+<h3 align="center">Cybersecurity Consultant at Ernst & Young (EY)</h3>
+<h4 align="center"> Ethical Hacker and Pentester in my free time</h4>
 ###
 
 <br clear="both">
@@ -19,7 +19,12 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on DEDSEC_Multitool<br><br>🌱 I’m currently learning Cybersecurity and working on my personal practice projects.<br><br>👨‍💻 My current projects are avalible at my github profile.<br><br>💬 Ask me about Whatever you want, ill respond if I know.<br><br>⚡ Fun fact: I may be more dumb that you can actually imagine</p>
+<p align="left">🔭 Currently working as a Cybersecurity Analyst at the Catalan Cybersecurity Agency (SOC N1).<br><br>
+🧠 Focused on Threat Detection, Incident Response, and Security Automation.<br><br>
+💻 Developing tools for log analysis, honeypot data processing, and cyber intelligence reporting.<br><br>
+🌱 Continuously learning and improving through Red Team and Blue Team research.<br><br>
+⚔️ Hack The Box Top 16 (Spain) – combining offensive mindset with defensive precision.<br><br>
+⚡ Fun fact: I break things to understand how to protect them.</p>
 
 ###
 
