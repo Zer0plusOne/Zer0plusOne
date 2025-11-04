@@ -124,8 +124,4 @@
 
 <img src="https://raw.githubusercontent.com/Zer0plusOne/Zer0plusOne/output/snake.svg" alt="Snake animation" />
 
-###
 
-<img align="left" src="https://profile-counter.glitch.me/Zer0plusOne/count.svg?"  />
-
-###
