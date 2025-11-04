@@ -19,9 +19,9 @@
 
 ###
 
-<p align="left">🔭 Currently working as a Cybersecurity Analyst at the Catalan Cybersecurity Agency (SOC N1).<br><br>
-🧠 Focused on Threat Detection, Incident Response, and Security Automation.<br><br>
-💻 Developing tools for log analysis, honeypot data processing, and cyber intelligence reporting.<br><br>
+<p align="left">🔭 Currently working as a Cybersecurity Analyst at the Catalan Cybersecurity Agency<br><br>
+🧠 I hunt threats, respond to incidents and automate what others do manually.<br><br>
+💻 Passionate about Threat Hunting, Incident Response and Red Team methodologies.<br><br>
 🌱 Continuously learning and improving through Red Team and Blue Team research.<br><br>
 ⚔️ Hack The Box Top 16 (Spain) – combining offensive mindset with defensive precision.<br><br>
 ⚡ Fun fact: I break things to understand how to protect them.</p>
