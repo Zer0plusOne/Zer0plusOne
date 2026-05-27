@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Cybersecurity Consultant at Ernst & Young (EY)</h3>
+<h3 align="center">Cybersecurity Analyst at Ernst & Young (EY)</h3>
 <h4 align="center"> Ethical Hacker and Pentester in my free time</h4>
 
 ###
