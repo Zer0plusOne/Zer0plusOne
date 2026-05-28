@@ -12,8 +12,8 @@
 <img align="right" height="177" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejV5NDUyOGU3cGJhdzJrMWtiOGVmMHJocTB3YzM3N2hqaXZpZDBmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hcp2bxnGFOYzwX994H/giphy.webp"  />
 
 <div align="left">
-  <img height="170" style="border-radius: 20px; display: block; margin-bottom: 10px;" src="https://github.com/Zer0plusOne/Zer0plusOne/blob/main/SkillCards/HtbSkillCard.svg"/>
-  <img height="185" style="border-radius: 20px; display: block;" src="https://github.com/Zer0plusOne/Zer0plusOne/blob/main/SkillCards/DefensiveSkillCard.svg"/>
+  <img height="160" style="border-radius: 20px; display: block; margin-bottom: 10px;" src="https://github.com/Zer0plusOne/Zer0plusOne/blob/main/SkillCards/HtbSkillCard.svg"/>
+  <img height="170" style="border-radius: 20px; display: block;" src="https://github.com/Zer0plusOne/Zer0plusOne/blob/main/SkillCards/DefensiveSkillCard.svg"/>
 </div>
 
 ###
