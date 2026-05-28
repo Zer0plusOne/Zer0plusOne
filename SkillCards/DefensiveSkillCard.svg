@@ -1,0 +1,74 @@
+<svg width="495" height="230" viewBox="0 0 495 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Security Stack Distribution</title>
+  <desc id="desc">Compact GitHub README style card showing defensive security and development stack distribution.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="495" y2="230">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <style>
+      .title {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 19px;
+        font-weight: 700;
+        fill: #F8FAFC;
+      }
+
+      .label {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 13px;
+        font-weight: 600;
+        fill: #CBD5E1;
+      }
+
+      .percent {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 500;
+        fill: #94A3B8;
+      }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="494" height="229" rx="10" fill="url(#bg)" stroke="#4C1D95"/>
+
+  <text x="25" y="35" class="title">Security Stack Distribution</text>
+
+  <!-- Segmented top bar -->
+  <rect x="25" y="58" width="445" height="10" fill="#1E293B"/>
+  <rect x="25" y="58" width="105" height="10" fill="#C084FC"/>
+  <rect x="130" y="58" width="96" height="10" fill="#A855F7"/>
+  <rect x="226" y="58" width="87" height="10" fill="#8B5CF6"/>
+  <rect x="313" y="58" width="78" height="10" fill="#7C3AED"/>
+  <rect x="391" y="58" width="79" height="10" fill="#6D28D9"/>
+
+  <!-- Column 1 -->
+  <circle cx="31" cy="98" r="5" fill="#C084FC"/>
+  <text x="45" y="103" class="label">Threat Hunting</text>
+  <text x="180" y="103" class="percent">24%</text>
+
+  <circle cx="31" cy="128" r="5" fill="#A855F7"/>
+  <text x="45" y="133" class="label">Incident Response</text>
+  <text x="180" y="133" class="percent">22%</text>
+
+  <circle cx="31" cy="158" r="5" fill="#8B5CF6"/>
+  <text x="45" y="163" class="label">Detection Eng.</text>
+  <text x="180" y="163" class="percent">20%</text>
+
+  <!-- Column 2 -->
+  <circle cx="265" cy="98" r="5" fill="#7C3AED"/>
+  <text x="279" y="103" class="label">Python Automation</text>
+  <text x="430" y="103" class="percent">18%</text>
+
+  <circle cx="265" cy="128" r="5" fill="#6D28D9"/>
+  <text x="279" y="133" class="label">Linux Infra</text>
+  <text x="430" y="133" class="percent">16%</text>
+
+  <circle cx="265" cy="158" r="5" fill="#DDD6FE"/>
+  <text x="279" y="163" class="label">SIEM / Logs</text>
+  <text x="430" y="163" class="percent">15%</text>
+
+  <text x="25" y="205" class="percent">@Zer0plusOne · Defensive security, development and automation focus</text>
+</svg>

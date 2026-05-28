@@ -1,0 +1,85 @@
+<svg width="495" height="260" viewBox="0 0 495 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Hack The Box Stats</title>
+  <desc id="desc">Compact GitHub README style card showing Hack The Box rankings and offensive security focus.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="495" y2="260">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <style>
+      .title {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        fill: #F8FAFC;
+      }
+
+      .subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 500;
+        fill: #94A3B8;
+      }
+
+      .label {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        fill: #CBD5E1;
+      }
+
+      .value {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        fill: #F8FAFC;
+      }
+
+      .small {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 500;
+        fill: #94A3B8;
+      }
+
+      .accent {
+        fill: #C084FC;
+      }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="494" height="259" rx="10" fill="url(#bg)" stroke="#4C1D95"/>
+
+  <!-- Header icon -->
+  <rect x="22" y="23" width="36" height="36" rx="7" fill="#151B2D" stroke="#312E81"/>
+  <path d="M40 29 L50 35 V47 L40 53 L30 47 V35 Z" stroke="#C084FC" stroke-width="2" fill="none"/>
+  <path d="M30 35 L40 41 L50 35" stroke="#C084FC" stroke-width="2"/>
+  <path d="M40 41 V53" stroke="#C084FC" stroke-width="2"/>
+
+  <text x="68" y="36" class="title">Hack The Box Stats</text>
+  <text x="68" y="55" class="subtitle">@Zer0plusOne · operator profile</text>
+
+  <!-- Main stats -->
+  <rect x="25" y="78" width="210" height="68" rx="10" fill="#151B2D" stroke="#312E81"/>
+  <text x="43" y="104" class="label">Best Global Ranking</text>
+  <text x="43" y="130" class="value">#341</text>
+
+  <rect x="260" y="78" width="210" height="68" rx="10" fill="#151B2D" stroke="#312E81"/>
+  <text x="278" y="104" class="label">Best Local Ranking - [ES]</text>
+  <text x="278" y="130" class="value">#16</text>
+
+  <!-- Focus rows -->
+  <circle cx="35" cy="174" r="5" class="accent"/>
+  <text x="50" y="179" class="label">Primary Focus</text>
+  <text x="375" y="179" class="small">Active Directory</text>
+
+  <circle cx="35" cy="204" r="5" class="accent"/>
+  <text x="50" y="209" class="label">Tradecraft</text>
+  <text x="265" y="209" class="small">Pivoting • PrivEsc • Post-Exploitation</text>
+
+  <circle cx="35" cy="234" r="5" class="accent"/>
+  <text x="50" y="239" class="label">Mindset</text>
+  <text x="246" y="239" class="small">Offensive research • Defensive precision</text>
+</svg>
