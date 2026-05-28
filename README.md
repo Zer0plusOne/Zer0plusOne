@@ -39,7 +39,7 @@ Zer0plusone@PwnDeb > skills --list
 [+] Linux & Infrastructure
 [+] Security Automation
 
-> current_status
+Zer0plusone@PwnDeb > current_status
 
 [+] Researching offensive methodologies
 [+] Building security tooling
