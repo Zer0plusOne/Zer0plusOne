@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="185" style="border-radius: 20px;" src="https://github.com/Zer0plusOne/Zer0plusOne/blob/main/SkillCards/DefensiveSkillCard.svg"/>
+<img align="left" height="185" style="border-radius: 20px;" src="https://github.com/Zer0plusOne/Zer0plusOne/blob/main/SkillCards/DefensiveSkillCard.svg"/>
 <br clear="both">
 
 ###
