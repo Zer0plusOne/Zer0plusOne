@@ -11,10 +11,9 @@
 
 <img align="right" height="177" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejV5NDUyOGU3cGJhdzJrMWtiOGVmMHJocTB3YzM3N2hqaXZpZDBmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hcp2bxnGFOYzwX994H/giphy.webp"  />
 
-<div align="left">
-  <img height="160" style="border-radius: 20px; display: block; margin-bottom: 10px;" src="https://github.com/Zer0plusOne/Zer0plusOne/blob/main/SkillCards/HtbSkillCard.svg"/>
-  <img height="170" style="border-radius: 20px; display: block;" src="https://github.com/Zer0plusOne/Zer0plusOne/blob/main/SkillCards/DefensiveSkillCard.svg"/>
-</div>
+###
+<img align="left" height="150" style="border-radius: 20px;" src="https://github.com/Zer0plusOne/Zer0plusOne/blob/main/SkillCards/HtbSkillCard.svg"/>
+<img align="center" height="150" style="border-radius: 20px;" src="https://github.com/Zer0plusOne/Zer0plusOne/blob/main/SkillCards/DefensiveSkillCard.svg"/>
 
 ###
 
@@ -148,5 +147,4 @@ Zer0plusone@PwnDeb > current_status
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Zer0plusOne/Zer0plusOne/output/snake.svg" alt="Snake animation" />
-
 
