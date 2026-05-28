@@ -137,7 +137,7 @@ Zer0plusone@PwnDeb > skills --list
     <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="75"/>
   </a>
   </a>
-    <a href="[https://www.coursera.org/account/accomplishments/professional-cert/HCJZXMLSOES2](https://labs.cyberwarfare.live/credential/achievement/689b674bf4c7625a294ec061)" target="_blank">
+    <a href="https://labs.cyberwarfare.live/credential/achievement/689b674bf4c7625a294ec061" target="_blank">
     <img src="https://github.com/Zer0plusOne/Zer0plusOne/blob/main/SkillCards/crta_badge.png" height="75"/>
   </a>
 </div>
