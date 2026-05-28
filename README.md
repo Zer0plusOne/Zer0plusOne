@@ -13,19 +13,35 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zer0plusone&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zer0plusone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img align="center" height="" src="https://github.com/Zer0plusOne/Zer0plusOne/blob/main/SkillCards/SkillCard_HTB.png"/>
 
 ###
 
-<p align="left">🔭 Currently working as a Cybersecurity Analyst at the Catalan Cybersecurity Agency<br><br>
-🧠 I hunt threats, respond to incidents and automate what others do manually.<br><br>
-💻 Passionate about Threat Hunting, Incident Response and Red Team methodologies.<br><br>
-🌱 Continuously learning and improving through Red Team and Blue Team research.<br><br>
-⚔️ Hack The Box Top 16 (Spain) – combining offensive mindset with defensive precision.<br><br>
-⚡ Fun fact: I break things to understand how to protect them.</p>
+```bash
+Zer0plusone@PwnDeb > whoami
+
+Cybersecurity Analyst working for the Catalonia Agency of Cybersecurity
+
+```
+```py
+> skills --list
+
+[+] Threat Hunting
+[+] Incident Response
+[+] Active Directory Attacks
+[+] Pivoting & Tunneling
+[+] Detection Engineering
+[+] SIEM Analysis
+[+] Linux & Infrastructure
+[+] Security Automation
+
+> current_status
+
+[+] Researching offensive methodologies
+[+] Building security tooling
+[+] Practicing Red & Blue Team operations
+[+] Grinding Hack The Box (CPTS & CDSA incomming)
+```
 
 ###
 
