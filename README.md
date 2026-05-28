@@ -20,7 +20,9 @@
 ```bash
 Zer0plusone@PwnDeb > whoami
 
-Cybersecurity Analyst working for the Catalonia Agency of Cybersecurity
+Cybersecurity Analyst working for the Catalonia Agency of Cybersecurity, focused on threat hunting, incident response and security automation.
+
+Blue Team operator with an offensive security mindset, researching attacker tradecraft to improve detection, visibility and response.
 
 ```
 ```py
