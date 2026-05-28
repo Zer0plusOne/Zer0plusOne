@@ -28,7 +28,7 @@ detection, visibility and response.
 
 ```
 ```py
-> skills --list
+Zer0plusone@PwnDeb > skills --list
 
 [+] Threat Hunting
 [+] Incident Response
