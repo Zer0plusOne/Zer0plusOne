@@ -12,7 +12,6 @@
 <img align="right" height="177" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejV5NDUyOGU3cGJhdzJrMWtiOGVmMHJocTB3YzM3N2hqaXZpZDBmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hcp2bxnGFOYzwX994H/giphy.webp"  />
 
 ###
-<br clear="both">
 <img align="left" height="170" style="border-radius: 20px;" src="https://github.com/Zer0plusOne/Zer0plusOne/blob/main/SkillCards/HtbSkillCard.svg"/>
 
 ###
