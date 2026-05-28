@@ -13,7 +13,7 @@
 
 ###
 
-<img align="center" height="177" src="https://github.com/Zer0plusOne/Zer0plusOne/blob/main/SkillCards/SkillCard_HTB.png"/>
+<img align="center" height="165" src="https://github.com/Zer0plusOne/Zer0plusOne/blob/main/SkillCards/SkillCard_HTB.png"/>
 
 ###
 
