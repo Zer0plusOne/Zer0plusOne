@@ -140,6 +140,9 @@ Zer0plusone@PwnDeb > current_status
     <a href="https://labs.cyberwarfare.live/credential/achievement/689b674bf4c7625a294ec061" target="_blank">
     <img src="https://github.com/Zer0plusOne/Zer0plusOne/blob/main/SkillCards/crta_badge.png" height="75"/>
   </a>
+      <a href="https://www.credly.com/earner/earned/badge/6eb6b99f-aa35-4900-898c-bd0edcb15783" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" height="75"/>
+  </a>
 </div>
 
 ###
